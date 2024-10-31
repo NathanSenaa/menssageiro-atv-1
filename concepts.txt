@@ -1,0 +1,4 @@
+Fila: Armazena mensagens para processamento.
+Produtor: Envia mensagens à fila.
+Consumidor: Processa mensagens da fila.
+Assíncrono: Produtor e consumidor operam de forma independente, aumentando eficiência e escalabilidade.
